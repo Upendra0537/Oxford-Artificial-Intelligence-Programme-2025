@@ -23,3 +23,31 @@ Peak of inflated expectation: During this period, hype and excitement builds, an
 Trough of disillusionment: This period is when hope and faith in the technology is lost, because it is not performing as well as expected. Negative media coverage is widespread.
 Slope of enlightenment: Confidence in the technology is regained, and the potential for further application of the technology becomes clear.
 Plateau of productivity: During the maturity stage, growth slows down, the technology is realistically valued, and adoption accelerates.
+
+
+Module 2: AI and machine learning: Understanding the black box
+
+Types of Data
+- Structured
+- Unstructured
+
+Computational Limits -  P & NP Problem, Traveling Salesman Problem
+
+Three learning approaches 
+– supervised 
+ - Regression - Linear (Continous Output)
+ - Classification - Logistic (Binary Output)
+- unsupervised
+ - Clustering
+- reinforcement learning 
+
+Four main stages of ML:
+Manage data: data is collected, prepared, and split for training and testing
+Train model: the task, features, and algorithms are chosen, and the model is trained
+Evaluate model: the trained model is assessed and improved
+Deploy model: the trained model is deployed for prediction on new data, and the model’s performance is monitored and eventually re-retrained
+
+Tensor Flow - Movie Review - Google Colab - https://www.tensorflow.org/tutorials/keras/text_classification_with_hub
+
+
+

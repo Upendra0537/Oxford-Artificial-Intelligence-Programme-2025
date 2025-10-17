@@ -169,3 +169,65 @@ Weiers, R.M. 2008. Introduction to business statistics. USA: Thomson South-Weste
 Wheeler, S.R. 2016. Architecting experience: a marketing science and digital analytics handbook. Singapore: World Scientific Publishing Co. Pte. Ltd.
 
 Wooldridge, M. 2018. Artificial intelligence. UK: Penguin Random House.
+
+
+
+Neural Network References
+
+Alpaydin, E. 2016. Machine learning: the new AI. Massachusetts, United States of America: MIT Press.
+
+Bergmann, D & Stryker, C. 2024. What is Backpropagation? Available: https://www.ibm.com/think/topics/backpropagation [2025, August 7].
+
+Bullinaria, J.A. 2015. Hebbian learning and gradient descent learning. Available: https://www.coursehero.com/file/27793510/l5pdf/ [2019, February 6].
+
+Dilmegani, C. 2025. Top 7 Speech Recognition Challenges & Solutions in 2025. Available: https://research.aimultiple.com/speech-recognition-challenges/ [2025, August 7].
+
+Dormehl, L. 2019. What is an artificial neural network? Here’s everything you need to know. Available: https://www.digitaltrends.com/cool-tech/what-is-an-artificial-neural-network/ [2019, January 21].
+
+Gad, A. 2025. A Comprehensive Guide to the Backpropagation Algorithm in Neural Networks. Available: https://neptune.ai/blog/backpropagation-algorithm-in-neural-networks-guide [2025, August 7].
+
+Gershenson, C. 2003. Artificial neural networks for beginners. Available: https://arxiv.org/abs/cs/0308031 [2019, January 22].
+
+Gerstner, W. 2011. Hebbian learning and plasticity. Available: https://pdfs.semanticscholar.org/f9fc/99a5c52aa5df1b530dfdeb25dfb6b10bdecf.pdf [2019, March 26].
+
+Hebb, D.O. 1986. The organization of Behavior. Available: http://s-f-walker.org.uk/pubsebooks/pdfs/The_Organization_of_Behavior-Donald_O._Hebb.pdf [2019, April 8].
+
+Hinton, G. 2021. How to Represent Part-Whole Hierarchies in a Neural Net. Oxford University: Oxford Artificial Intelligence Society. Available: https://www.facebook.com/oxaisoc/videos/oxai-geoffrey-hinton-how-to-represent-part-whole-hierarchies-in-a-neural-net/1331906847179156/?__so__=permalink&__rv__=related_videos [2021, June 29].
+
+Holdsworth, J. & Scapicchio, M. 2025. What is Deep Learning? Available at: https://www.ibm.com/think/topics/deep-learning [2025, August 7].
+
+Incode. 2024. Facial Recognition: How to Train Models and Keep Improving Over Time. Available: https://incode.com/blog/model-training-for-face-recognition-and-how-we-improve-over-time-how-it-works/ [2025, August 7].
+
+Kuwajima, H. 2014. Backpropagation in convolutional neural network. Available: https://www.slideshare.net/kuwajima/cnnbp [2019, January 22].
+
+Nancholas, B. 2024. Diving Into Deep Learning. Available: https://online.wlv.ac.uk/diving-into-deep-learning/ [2025, August 7].
+
+Nielsen, M.A. 2015. Neural networks and deep learning. United States of America: Determination Press.
+
+Nobel Media AB. 1981. Press release. Available: https://www.nobelprize.org/prizes/medicine/1981/summary/ [2019, February 4].
+
+Patterson, J. & Gibson, A. 2017. Deep learning: a practitioner’s guide. United States of America: O’Reilly Media Inc.
+
+Raheja, S. 2025. Train-Test-Validation Split in 2025. Available: https://www.analyticsvidhya.com/blog/2023/11/train-test-validation-split/ [2025, August 7].
+
+Rumelhart, D.E., Hinton, G.E. & Williams, R.J. 1986. Learning representations by back-propagating errors. Nature. 323:533-536. DOI: https://doi.org/10.1038/323533a0.
+
+Russell, S. & Norvig, P. 2016. Artificial intelligence: a modern approach. Essex, United Kingdom: Pearson.
+
+Schmidgall, S., Ziaei, R., Achterberg, J., Kirsch, L., Pardis Hajiseyedrazi, S., Eshraghian, J. 2024. Brain-Inspired Learning in Artificial Neural Networks: A Review. AIP Advances, 2(2), 021501. Available: https://pubs.aip.org/aip/aml/article/2/2/021501/3291446/Brain-inspired-learning-in-artificial-neural [2025, August 7].
+
+Schuman, C.D., Kulkarni, S.R., Parsa, M. 2022. Opportunities for neuromorphic computing algorithms and applications. Nature Computational Science. 2:10-19. DOI: https://doi.org/10.1038/s43588-021-00184-y.
+
+Sharma V, A. 2017. Understanding activation functions in neural networks. Available: https://medium.com/the-theory-of-everything/understanding-activation-functions-in-neural-networks-9491262884e0 [2019, January 28].
+
+SuperAnnotate. 2023. Activation Functions in Neural Networks. Available: https://www.superannotate.com/blog/activation-functions-in-neural-networks [2025, August 7].
+
+Tong, W., Wei, Y., Murga, L.F., Ondrechen, M.J. & Williams, R.J. 2009. Partial order optimum likelihood (POOL): maximum likelihood prediction of protein active site residues using 3D structure and sequence properties. PLoS Computational Biology. DOI: https://doi.org/10.1371/journal.pcbi.1000266.
+
+Tuychlev, B. 2025. Forward Propagation in Neural Networks: A Complete Guide. Available: https://www.datacamp.com/tutorial/forward-propagation-neural-networks [2025, August 7].
+
+Wooldridge, M. 2018. Artificial intelligence. London, United Kingdom: Penguin Random House UK.
+
+Yegnanarayana, B. 2006. Artificial neural networks. New Delhi: Prentice-Hall of India Private Limited.
+
+Gardner, H. 1983. Frames of mind: The theory of multiple intelligences. Basic Books.

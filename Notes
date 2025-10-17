@@ -49,5 +49,20 @@ Deploy model: the trained model is deployed for prediction on new data, and the 
 
 Tensor Flow - Movie Review - Google Colab - https://www.tensorflow.org/tutorials/keras/text_classification_with_hub
 
+Module 3: Understanding deep learning and neural networks
 
+Neural Network
+- Input
+- Hidden layer - activation Function
+- Output
+
+- Weights - 
+- Error Rate - 
+
+Training data set: This set enables ANNs to establish the appropriate weights between the neurons in the different layers.
+Validation data set: This is used to refine the ANN’s processing ability.
+Test data set: This is used to test whether the ANN has the ability to process the input into an accurate output.
+
+Forward propagation - Forward propagation entails signals moving from the input on the left to the output on the right
+Backpropagation - backpropagation in ANNs functions by adjusting or correcting the weights between neurons in order to minimise the error in the output of the ANN, and is the process by which an ANN learns
 

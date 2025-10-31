@@ -66,3 +66,36 @@ Test data set: This is used to test whether the ANN has the ability to process t
 Forward propagation - Forward propagation entails signals moving from the input on the left to the output on the right
 Backpropagation - backpropagation in ANNs functions by adjusting or correcting the weights between neurons in order to minimise the error in the output of the ANN, and is the process by which an ANN learns
 
+Module 5: AI and society
+
+- Ethical AI: AI systems that adhere to ethical principles and thus ensure that these systems are aligned with social norms and values.
+- Safe AI: A key concern is that AI systems may cause physical and psychological harm to those affected by its output, either directly or indirectly.
+- Responsible AI: While similar to ethical AI, the idea here is that AI should be used in a responsible way that does not cause any harm. While ethical AI focuses on the underlying principles, responsible AI focuses on the practices, policies, and governance of AI.
+- Explainable AI: It is difficult, if not impossible, to understand how a certain prediction has been reached in complex AI systems. Explainable AI promotes practices that alleviate this problem. For example, using simulations, What-if scenarios, and counterfactuals.
+- Robust AI: Robustness is a technical requirement, arguing that AI models should produce consistent output even in extreme or edge cases, reducing the risk of unintended consequences.
+- Trustworthy AI: The concept of trustworthiness was introduced by the EU to bring together three key requirements that AI systems should fulfil:Legal compliance, for example, with privacy laws such as the GDPR Technical robustness, to ensure consistent performance of the model Ethical soundness, to ensure adherence to social norms and values
+
+AI Failures
+- Privacy
+- Intellectual property rights
+- Explainability - Fairlearn Tool and What-if Tool
+- Misinformation - AI language model errors, Outdated AI information, Misinterpreted AI research
+- disinformation - Deepfakes, AI-generated fake news, Malicious chatbots, AI-enhanced phishing
+- Bias
+  - Algorithmic Bias
+
+AI ethics
+- Unacceptable risk (banned outright)
+- High risk (subject to strict obligations)
+- Limited risk (transparency requirements only)
+- Minimal risk (no compliance mandate)
+
+- AI Act - EU
+- National AI Initiative Act of 2020 - USA
+- International Organization for Standardization (ISO)
+ - ISO 42001 on AI management systems, and the technical report 
+ - ISO 24027 on bias in AI and AI-aided decision-making
+- United Nations Educational, Scientific and Cultural Organization (UNESCO)
+- Organisation for Economic Co-operation and Development (OECD)
+
+Tool - capAI – A conformity assessment procedure for AI system -  to trak all the AI models, their risks.

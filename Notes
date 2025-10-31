@@ -66,6 +66,46 @@ Test data set: This is used to test whether the ANN has the ability to process t
 Forward propagation - Forward propagation entails signals moving from the input on the left to the output on the right
 Backpropagation - backpropagation in ANNs functions by adjusting or correcting the weights between neurons in order to minimise the error in the output of the ANN, and is the process by which an ANN learns
 
+Module 4: Beyond prediction: Making the most of generative AI
+Predictive AI
+Generative AI
+ - Tokenisation
+ - Vector embeddings
+ - Attention mechanism
+ - Multimodality
+
+- Large language models (LLMs): LLMs are very large and powerful text-to-text systems usually using transformer networks. These can vary in size but typically contain hundreds of billions to trillions of parameters. It’s worth noting that the human brain has around 200 trillion synapses.
+- Small language models (SLMs): SLMs are smaller text-to-text systems that still tend to be very performant compared to the larger LLMs. Typically, SLMs will contain a few billion to tens of billions of parameters, so they are approximately 100 times smaller than LLMs.
+- Large multimodal models (LMMs): LMMs are models that accept various input formats and deliver a similar variety of output types. They are more versatile than LLMs as they can process different types of information including text, audio, images, and videos.
+- Small multimodal models (SMMs): SMMs are similar to LMMs but with less parameters. Similarly, they are more versatile than SLMs.
+- Foundation model: These are deep learning models that are pre-trained on vast amounts of publicly available data, usually from the internet. They can include all four of the aforementioned categories of models.
+- Frontier model: Frontier models refer to the latest types of AI models. They are foundation models but can also include new types of architectures and approaches. It is a term often used by policy makers and regulators to describe the most powerful models available.
+
+Agentic AI - Agentic AI refers to an autonomous, goal-directed AI system (consisting of AI agents) that incorporates the use of advanced reasoning and iterative planning to solve elaborate problems within dynamic environments
+
+Transformers
+- Input processing
+- Embedding
+- Positional encoding
+- Self-attention
+- Multi-head attention
+- Feed-forward networks
+- Layer normalisation and residual connections
+- Decoder stack
+- Output layer
+- Softmax
+- Selection
+
+Limitations of Gen AI
+- Hallucination - Misinformation /Disinformation
+- Copyright Violation
+- Security Issues
+
+Prompt Engineering
+Retrieval augmented generation
+Fine-tuning an open-source model
+Pretrain your own genAI Model
+
 Module 5: AI and society
 
 - Ethical AI: AI systems that adhere to ethical principles and thus ensure that these systems are aligned with social norms and values.
